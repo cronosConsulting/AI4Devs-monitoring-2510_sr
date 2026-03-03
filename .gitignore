@@ -29,3 +29,7 @@ yarn-error.log*
 .vscode
 
 # .env
+*.tfvars
+.terraform/
+*.tfstate
+*.tfstate.backup
